@@ -1,0 +1,74 @@
+BASICS(1 month): 
+
+variable/data types
+conditional statements
+loops
+arrays & strings
+exception handling
+
+
+OOPS(2 months):
+
+inheritance
+polymorphism
+abstraction
+encapsulation
+generics
+collections framework  //datastructures         (VVI)
+compareable & comparator
+lambda & streams
+
+
+PROBLEM SOLVING SKILLS /DSA (2 months):
+
+Topics:
+Time and Space Complexity
+Recursion(VVI)
+Dynamic Programming(Basic and advanced)
+Backtracking
+Divide and Conquer
+Greedy Algorithms
+Bit Manipulation
+Graphs
+Trees
+Heaps
+Tries
+Linked Lists
+Hashing
+Strings(VVI)
+Arrays(VVI)
+Stacks and Queues(VVI)
+Linkedlist(VVI)
+Binarytrees(VVI)
+Math
+Geometry
+Hashing and HashMaps
+advanced sorting Algorithms
+String Algorithms
+
+
+SPRING BOOT FRAMEWORK:
+
+Dependency Injection & Management
+Maven & Gradle
+Hibernate (JDBC counterpart)
+CRUD Operation(Build Rest API's)
+TDD and Junit(unit testing)
+build projects
+
+
+ADDITIONAL TOOLS:
+
+GIT & GITHUB
+Linux
+AWS
+Intellij
+OOPS, Solid principles, design principles(VVI)
+Microservices
+Docker
+Kubernetes
+
+
+QUANT APLITUDE:
+
+
